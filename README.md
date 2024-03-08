@@ -3,7 +3,7 @@
 Hola, soy una desarrolladora Web egresada de LABORATORIA, en busca de crecimiento constante, amplio criterio en la toma de decisiónes, adaptabilidad a diversos entornos y situaciones, orientado a obtener la mejor satisfacción para el usuario, habilidades que pude ir desarrollando previamente con mi experiencia profesional como abogada litigante.  
 --
  <a href="https://github.com/janethpc/Simple-View-Counter">
-    <img alt="vistas" title="Vistas de perfil de GitHub" src="https://komarev.com/ghpvc/?username=janethpc&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges. demolab.com/github"/></a>
+    <img alt="vistas" title="Vistas de perfil de GitHub" src="https://komarev.com/ghpvc/?username=janethpc&style=for-the-badge&color=DFD947&labelColor=EEE517&logo=star/custom-icon-badges.demolab.com/github"/></a>
 
 ### Technical Skills
 
